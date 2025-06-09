@@ -1,5 +1,7 @@
 # Sudip Dey Dipta - Portfolio Website
 
+https://amrito20.github.io/Sudip-Dey-Dipta-Portfolio/
+
 A modern, responsive portfolio website for Materials Science Engineering student Sudip Dey Dipta, showcasing research, achievements, and professional experience.
 
 ## 🌟 Features
